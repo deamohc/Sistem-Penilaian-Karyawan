@@ -1,6 +1,3 @@
-# Sistem-Penilaian-Karyawan
-Penilaian Karyawan PT MKK &amp; CV MGM
-[Sistem Penilain Karyawan 2026.html](https://github.com/user-attachments/files/35073971/Sistem.Penilain.Karyawan.2026.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
